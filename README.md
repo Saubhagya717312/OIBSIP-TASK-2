@@ -1,1 +1,3 @@
-# Live site - https://mekaiser.github.io/personal-website/
+# OIBSIP-TASK-2
+
+A minimalistic personal portfolio.
